@@ -1,0 +1,27 @@
+main {
+  padding: 2rem;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+pre {
+  display: inline-block;
+  padding: 1rem;
+  background-color: #eee;
+}
+
+#inviteBtn {
+  padding: 1rem;
+  background-color: #80B9B8;
+  border: 1px solid #98C8C1;
+  color: #FFF;
+}
+
+button:hover {
+  cursor:pointer;
+}
+
+button:disabled {
+  cursor: disabled;
+}
+

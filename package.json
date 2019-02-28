@@ -1,0 +1,13 @@
+{
+  "name": "express-ssb-invites",
+  "version": "1.0.0",
+  "description": "a small express app for generating invites to my pub",
+  "main": "index.js",
+  "author": "dmamills",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pull-stream": "^3.6.9",
+    "ssb-client": "^4.7.0"
+  }
+}
